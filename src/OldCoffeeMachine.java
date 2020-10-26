@@ -10,4 +10,11 @@ public class OldCoffeeMachine {
 		
 		System.out.println(" Selection B Chosen");
 	}
+
+public static void main(String[]args) {
+	
+	
+	
+}
+	
 }
